@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Aman Kumar Singh</h1>
-<h3 align="center">CSE student building a rare hybrid tech stack — DevOps | MLOps | AI/ML | C++ | Python</h3>
+<h3 align="center">CSE student building a rare hybrid tech stack — MERN | DevOps | MLOps | AI/ML | C++ | Python</h3>
 
 ---
 
