@@ -4,6 +4,7 @@
 ---
 
 ### 🚀 About Me
+- 2 year+ experince in webdevlopment industry level(MERN,PHP,LARAVEL,NODE,NEXT)
 - 🎓 3rd-year CSE student on a mission to crack top-tier roles (SDE + AI/ML + DevOps)
 - 🔭 Currently building real-world projects with C++, Python, Linux, and Git
 - 🌱 Learning DevOps + MLOps from scratch, documenting everything
@@ -13,6 +14,7 @@
 ---
 
 ### 🧰 Tech Stack in Progress
+
 - 💻 Languages: `C++`, `Python`, `Bash`, `YAML`
 - 🛠️ Tools & Tech: `Linux`, `Git`, `GitHub`, `Docker`, `Kubernetes`, `MLflow`, `CI/CD`
 - 🧪 AI/ML: `Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`
